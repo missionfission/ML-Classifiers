@@ -1,10 +1,3 @@
-#! /usr/bin/env python
-"""
-Author: Jeremy M. Stober
-Program: GMM.PY
-Date: Friday, June 24 2011/Volumes/NO NAME/seds/nodes/gmm.py
-Description: A python class for creating and manipulating GMMs.
-"""
 
 import scipy.cluster.vq as vq
 import numpy as np
