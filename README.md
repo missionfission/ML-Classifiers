@@ -1,2 +1,1 @@
-Code and report for ML Assignment 1
-
+This repository contains the implementation of all general ML Classifiers from Scratch
